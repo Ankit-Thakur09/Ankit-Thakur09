@@ -12,9 +12,10 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ankit-Thakur09&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Ankit-Thakur09&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ankit-Thakur09&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-Thakur09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-Thakur09&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ankit-Thakur09&icon=5&color=6)](https://visitcount.itsvg.in)
